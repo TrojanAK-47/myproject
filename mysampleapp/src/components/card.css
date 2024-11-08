@@ -1,0 +1,31 @@
+.container{
+
+   
+    align-items: center;
+    width: 500px;
+    height: 300px;
+    border:  1px solid grey;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px;
+    margin-top: 50px;
+    
+}
+
+.heading1{
+    display: flex;
+    justify-content: center;
+}
+
+.heading2{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+
+  flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+
+
+}
